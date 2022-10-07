@@ -1,0 +1,51 @@
+#main-footer {
+    position: relative;
+}
+/* Llista gegants */
+#list {
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 15px;
+    border-color: black;
+    background-color: #a5c9ca;
+    margin-left: 20%;
+    margin-right: 20%;  
+    }
+#foto_gegants {
+    border: 2px solid black;
+    border-radius: 3px;
+    }
+#foto_gegants:hover {
+    transform: scale(3);
+    }
+/* Llista gegants */
+
+/* Gegants Filtres */
+#div-filtres {
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 15px;
+    border-color: black;
+    background-color: #a5c9ca;
+    margin-left: 20%;
+    margin-right: 20%;  
+}
+
+#btnfiltres {
+    background-color: #2c3333;
+    color: white;
+    margin-top: 5px;
+    margin-left:5px;
+    margin-right: 5px;
+    margin-bottom: 3px;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block; 
+    border-radius: 15%;
+}
+
+#inputfiltres {
+    background-color: #e7f6f2;
+}
+/* Gegants Filtres */

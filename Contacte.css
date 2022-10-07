@@ -1,0 +1,25 @@
+#main-footer {
+    position: absolute;
+}
+/* Contacta amb mi */
+#titol-contacta {
+    padding-top: 50px;
+    }
+#img-logos-xarxes {
+    padding-right: 10px;
+    }
+#div-xarxes{
+    background-color: #a5c9ca;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 15px;
+    border-color: black;
+    margin-top: 1%;
+    margin-left: 20%;
+    margin-right: 20%;
+    }
+#links-xarxes {
+    text-decoration: none;
+    color: black;
+    }
+/* Contacta amb mi */

@@ -1,0 +1,39 @@
+#main-footer {
+    position: relative;
+}
+/* Error! Explicació i imatge */
+#div-error-explicat {
+    background-color: #2c3333;
+    color: white;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 15px;
+    border-color: white;
+    margin-top: 1%;
+    margin-left: 20%;
+    margin-right: 20%;  
+    }
+/* Error! Explicació i imatge */
+
+/* Error! Retry */
+#div-retry {
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 15px;
+    border-color: black;
+    background-color: #a5c9ca;
+    margin-top: 1%;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-bottom: 1%;
+    }
+#btn-retry {
+    background-color: #2c3333;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    box-shadow: #585A63 3px 3px;
+    }
+/* Error! Retry */
